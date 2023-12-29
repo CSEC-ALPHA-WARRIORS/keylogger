@@ -1,0 +1,49 @@
+2023-12-29 23:23:24,177: Special key pressed: Key.ctrl
+2023-12-29 23:23:24,321: Key pressed: c
+2023-12-29 23:24:20,761: Key pressed: i
+2023-12-29 23:24:21,512: Special key pressed: Key.backspace
+2023-12-29 23:24:22,796: Special key pressed: Key.ctrl
+2023-12-29 23:24:23,428: Key pressed: c
+2023-12-30 00:47:13,285: Special key pressed: Key.ctrl
+2023-12-30 00:47:13,436: Key pressed: c
+2023-12-30 00:48:05,743: Special key pressed: Key.ctrl
+2023-12-30 00:48:05,897: Key pressed: c
+2023-12-30 00:50:17,812: Special key pressed: Key.ctrl
+2023-12-30 00:50:17,975: Key pressed: c
+2023-12-30 00:51:58,228: Special key pressed: Key.cmd
+2023-12-30 00:51:58,337: Key pressed: 1
+2023-12-30 00:51:58,763: Key pressed: 2
+2023-12-30 00:52:07,634: Special key pressed: Key.cmd
+2023-12-30 00:52:07,822: Key pressed: 1
+2023-12-30 00:52:08,225: Key pressed: 2
+2023-12-30 00:52:08,642: Special key pressed: Key.cmd
+2023-12-30 00:52:08,713: Key pressed: 3
+2023-12-30 00:52:09,245: Special key pressed: Key.cmd
+2023-12-30 00:52:10,672: Special key pressed: Key.ctrl
+2023-12-30 00:52:10,858: Key pressed: c
+2023-12-30 00:52:11,324: Special key pressed: Key.enter
+2023-12-30 00:52:12,258: Key pressed: i
+2023-12-30 00:52:12,380: Special key pressed: Key.ctrl
+2023-12-30 00:52:12,512: Key pressed: c
+2023-12-30 00:52:48,625: Special key pressed: Key.ctrl
+2023-12-30 00:52:48,759: Key pressed: c
+2023-12-30 00:55:34,192: Special key pressed: Key.ctrl
+2023-12-30 00:55:34,524: Key pressed: c
+2023-12-30 01:01:09,977: Special key pressed: Key.cmd
+2023-12-30 01:01:10,069: Special key pressed: Key.shift
+2023-12-30 01:01:10,948: Special key pressed: Key.ctrl
+2023-12-30 01:01:11,052: Key pressed: c
+2023-12-30 01:01:54,090: Special key pressed: Key.ctrl
+2023-12-30 01:01:54,330: Key pressed: c
+2023-12-30 01:01:54,713: Special key pressed: Key.ctrl
+2023-12-30 01:01:54,834: Key pressed: c
+2023-12-30 01:01:55,418: Special key pressed: Key.ctrl
+2023-12-30 01:01:55,561: Key pressed: c
+2023-12-30 01:01:57,077: Key pressed: i
+2023-12-30 01:01:57,847: Special key pressed: Key.ctrl
+2023-12-30 01:01:58,070: Key pressed: c
+2023-12-30 01:07:26,589: Special key pressed: Key.ctrl
+2023-12-30 01:07:26,703: Key pressed: c
+2023-12-30 01:07:52,610: Special key pressed: Key.cmd
+2023-12-30 01:07:53,418: Special key pressed: Key.ctrl
+2023-12-30 01:07:53,470: Key pressed: c
