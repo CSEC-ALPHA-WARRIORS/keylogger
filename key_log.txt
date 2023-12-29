@@ -47,3 +47,401 @@
 2023-12-30 01:07:52,610: Special key pressed: Key.cmd
 2023-12-30 01:07:53,418: Special key pressed: Key.ctrl
 2023-12-30 01:07:53,470: Key pressed: c
+2023-12-30 01:12:53,537: Key pressed: d
+2023-12-30 01:12:53,690: Key pressed: d
+2023-12-30 01:12:54,238: Key pressed: d
+2023-12-30 01:12:54,488: Key pressed: f
+2023-12-30 01:12:54,557: Key pressed: d
+2023-12-30 01:12:54,882: Key pressed: d
+2023-12-30 01:12:55,159: Key pressed: f
+2023-12-30 01:12:55,301: Key pressed: d
+2023-12-30 01:12:55,395: Key pressed: f
+2023-12-30 01:12:55,503: Key pressed: d
+2023-12-30 01:12:55,820: Key pressed: d
+2023-12-30 01:12:56,051: Key pressed: f
+2023-12-30 01:12:56,190: Key pressed: d
+2023-12-30 01:12:56,280: Key pressed: f
+2023-12-30 01:12:56,353: Key pressed: d
+2023-12-30 01:12:56,678: Key pressed: d
+2023-12-30 01:12:56,962: Special key pressed: Key.backspace
+2023-12-30 01:12:57,622: Special key pressed: Key.backspace
+2023-12-30 01:12:57,662: Special key pressed: Key.backspace
+2023-12-30 01:12:57,703: Special key pressed: Key.backspace
+2023-12-30 01:12:57,743: Special key pressed: Key.backspace
+2023-12-30 01:12:57,782: Special key pressed: Key.backspace
+2023-12-30 01:12:57,822: Special key pressed: Key.backspace
+2023-12-30 01:12:57,862: Special key pressed: Key.backspace
+2023-12-30 01:12:57,903: Special key pressed: Key.backspace
+2023-12-30 01:12:57,943: Special key pressed: Key.backspace
+2023-12-30 01:12:57,982: Special key pressed: Key.backspace
+2023-12-30 01:12:58,023: Special key pressed: Key.backspace
+2023-12-30 01:12:58,062: Special key pressed: Key.backspace
+2023-12-30 01:12:58,103: Special key pressed: Key.backspace
+2023-12-30 01:12:58,144: Special key pressed: Key.backspace
+2023-12-30 01:12:58,184: Special key pressed: Key.backspace
+2023-12-30 01:12:58,225: Special key pressed: Key.backspace
+2023-12-30 01:12:58,264: Special key pressed: Key.backspace
+2023-12-30 01:12:58,305: Special key pressed: Key.backspace
+2023-12-30 01:12:58,346: Special key pressed: Key.backspace
+2023-12-30 01:12:58,387: Special key pressed: Key.backspace
+2023-12-30 01:12:58,427: Special key pressed: Key.backspace
+2023-12-30 01:12:58,467: Special key pressed: Key.backspace
+2023-12-30 01:12:58,507: Special key pressed: Key.backspace
+2023-12-30 01:12:58,600: Special key pressed: Key.backspace
+2023-12-30 01:12:59,227: Special key pressed: Key.ctrl
+2023-12-30 01:12:59,540: Key pressed: \
+2023-12-30 01:13:01,974: Special key pressed: Key.down
+2023-12-30 01:13:02,634: Special key pressed: Key.down
+2023-12-30 01:13:02,675: Special key pressed: Key.down
+2023-12-30 01:13:02,716: Special key pressed: Key.down
+2023-12-30 01:13:02,756: Special key pressed: Key.down
+2023-12-30 01:13:02,796: Special key pressed: Key.down
+2023-12-30 01:13:02,836: Special key pressed: Key.down
+2023-12-30 01:13:02,876: Special key pressed: Key.down
+2023-12-30 01:13:02,916: Special key pressed: Key.down
+2023-12-30 01:13:02,957: Special key pressed: Key.down
+2023-12-30 01:13:02,997: Special key pressed: Key.down
+2023-12-30 01:13:03,037: Special key pressed: Key.down
+2023-12-30 01:13:03,078: Special key pressed: Key.down
+2023-12-30 01:13:03,118: Special key pressed: Key.down
+2023-12-30 01:13:03,159: Special key pressed: Key.down
+2023-12-30 01:13:03,200: Special key pressed: Key.down
+2023-12-30 01:13:03,240: Special key pressed: Key.down
+2023-12-30 01:13:03,280: Special key pressed: Key.down
+2023-12-30 01:13:03,320: Special key pressed: Key.down
+2023-12-30 01:13:03,361: Special key pressed: Key.down
+2023-12-30 01:13:03,402: Special key pressed: Key.down
+2023-12-30 01:13:03,442: Special key pressed: Key.down
+2023-12-30 01:13:03,482: Special key pressed: Key.down
+2023-12-30 01:13:03,522: Special key pressed: Key.down
+2023-12-30 01:13:03,562: Special key pressed: Key.down
+2023-12-30 01:13:03,911: Special key pressed: Key.up
+2023-12-30 01:13:04,107: Special key pressed: Key.up
+2023-12-30 01:13:04,278: Special key pressed: Key.up
+2023-12-30 01:13:04,623: Special key pressed: Key.down
+2023-12-30 01:13:04,875: Special key pressed: Key.up
+2023-12-30 01:13:05,535: Special key pressed: Key.up
+2023-12-30 01:13:05,576: Special key pressed: Key.up
+2023-12-30 01:13:05,615: Special key pressed: Key.up
+2023-12-30 01:13:05,656: Special key pressed: Key.up
+2023-12-30 01:13:05,695: Special key pressed: Key.up
+2023-12-30 01:13:05,735: Special key pressed: Key.up
+2023-12-30 01:13:05,776: Special key pressed: Key.up
+2023-12-30 01:13:05,816: Special key pressed: Key.up
+2023-12-30 01:13:05,856: Special key pressed: Key.up
+2023-12-30 01:13:05,896: Special key pressed: Key.up
+2023-12-30 01:13:05,937: Special key pressed: Key.up
+2023-12-30 01:13:05,977: Special key pressed: Key.up
+2023-12-30 01:13:06,016: Special key pressed: Key.up
+2023-12-30 01:13:06,057: Special key pressed: Key.up
+2023-12-30 01:13:06,098: Special key pressed: Key.up
+2023-12-30 01:13:06,138: Special key pressed: Key.up
+2023-12-30 01:13:06,178: Special key pressed: Key.up
+2023-12-30 01:13:06,218: Special key pressed: Key.up
+2023-12-30 01:13:06,259: Special key pressed: Key.up
+2023-12-30 01:13:06,299: Special key pressed: Key.up
+2023-12-30 01:13:06,339: Special key pressed: Key.up
+2023-12-30 01:13:06,379: Special key pressed: Key.up
+2023-12-30 01:13:06,419: Special key pressed: Key.up
+2023-12-30 01:13:06,459: Special key pressed: Key.up
+2023-12-30 01:13:06,500: Special key pressed: Key.up
+2023-12-30 01:13:06,539: Special key pressed: Key.up
+2023-12-30 01:13:07,180: Special key pressed: Key.up
+2023-12-30 01:13:07,374: Special key pressed: Key.up
+2023-12-30 01:13:07,547: Special key pressed: Key.up
+2023-12-30 01:13:07,719: Special key pressed: Key.up
+2023-12-30 01:13:07,869: Special key pressed: Key.up
+2023-12-30 01:13:08,005: Special key pressed: Key.up
+2023-12-30 01:13:08,126: Special key pressed: Key.up
+2023-12-30 01:13:08,541: Special key pressed: Key.up
+2023-12-30 01:13:08,946: Special key pressed: Key.right
+2023-12-30 01:13:09,606: Special key pressed: Key.right
+2023-12-30 01:13:09,647: Special key pressed: Key.right
+2023-12-30 01:13:09,686: Special key pressed: Key.right
+2023-12-30 01:13:09,727: Special key pressed: Key.right
+2023-12-30 01:13:09,768: Special key pressed: Key.right
+2023-12-30 01:13:09,808: Special key pressed: Key.right
+2023-12-30 01:13:09,849: Special key pressed: Key.right
+2023-12-30 01:13:09,889: Special key pressed: Key.right
+2023-12-30 01:13:09,930: Special key pressed: Key.right
+2023-12-30 01:13:10,389: Special key pressed: Key.left
+2023-12-30 01:13:10,623: Special key pressed: Key.left
+2023-12-30 01:13:11,047: Key pressed: v
+2023-12-30 01:13:11,164: Special key pressed: Key.right
+2023-12-30 01:13:11,823: Special key pressed: Key.right
+2023-12-30 01:13:11,863: Special key pressed: Key.right
+2023-12-30 01:13:11,904: Special key pressed: Key.right
+2023-12-30 01:13:11,945: Special key pressed: Key.right
+2023-12-30 01:13:11,985: Special key pressed: Key.right
+2023-12-30 01:13:12,024: Special key pressed: Key.right
+2023-12-30 01:13:12,065: Special key pressed: Key.right
+2023-12-30 01:13:12,568: Special key pressed: Key.right
+2023-12-30 01:13:14,656: Special key pressed: Key.down
+2023-12-30 01:13:14,870: Special key pressed: Key.down
+2023-12-30 01:13:15,042: Special key pressed: Key.down
+2023-12-30 01:13:15,205: Special key pressed: Key.down
+2023-12-30 01:13:15,356: Special key pressed: Key.down
+2023-12-30 01:13:15,511: Special key pressed: Key.down
+2023-12-30 01:13:15,640: Special key pressed: Key.down
+2023-12-30 01:13:15,832: Special key pressed: Key.down
+2023-12-30 01:13:16,016: Special key pressed: Key.esc
+2023-12-30 01:13:16,493: Special key pressed: Key.up
+2023-12-30 01:13:16,626: Special key pressed: Key.up
+2023-12-30 01:13:16,807: Special key pressed: Key.up
+2023-12-30 01:13:17,467: Special key pressed: Key.up
+2023-12-30 01:13:17,507: Special key pressed: Key.up
+2023-12-30 01:13:17,548: Special key pressed: Key.up
+2023-12-30 01:13:17,588: Special key pressed: Key.up
+2023-12-30 01:13:17,628: Special key pressed: Key.up
+2023-12-30 01:13:17,668: Special key pressed: Key.up
+2023-12-30 01:13:17,708: Special key pressed: Key.up
+2023-12-30 01:13:17,747: Special key pressed: Key.up
+2023-12-30 01:13:17,787: Special key pressed: Key.up
+2023-12-30 01:13:17,828: Special key pressed: Key.up
+2023-12-30 01:13:17,869: Special key pressed: Key.up
+2023-12-30 01:13:17,909: Special key pressed: Key.up
+2023-12-30 01:13:17,949: Special key pressed: Key.up
+2023-12-30 01:13:17,988: Special key pressed: Key.up
+2023-12-30 01:13:18,028: Special key pressed: Key.up
+2023-12-30 01:13:18,069: Special key pressed: Key.up
+2023-12-30 01:13:18,108: Special key pressed: Key.up
+2023-12-30 01:13:18,148: Special key pressed: Key.up
+2023-12-30 01:13:18,189: Special key pressed: Key.up
+2023-12-30 01:13:18,230: Special key pressed: Key.up
+2023-12-30 01:13:18,271: Special key pressed: Key.up
+2023-12-30 01:13:18,311: Special key pressed: Key.up
+2023-12-30 01:13:18,351: Special key pressed: Key.up
+2023-12-30 01:13:18,392: Special key pressed: Key.up
+2023-12-30 01:13:18,433: Special key pressed: Key.up
+2023-12-30 01:13:18,474: Special key pressed: Key.up
+2023-12-30 01:13:18,514: Special key pressed: Key.up
+2023-12-30 01:13:18,554: Special key pressed: Key.up
+2023-12-30 01:13:18,594: Special key pressed: Key.up
+2023-12-30 01:13:18,634: Special key pressed: Key.up
+2023-12-30 01:13:18,913: Special key pressed: Key.down
+2023-12-30 01:13:19,573: Special key pressed: Key.down
+2023-12-30 01:13:19,613: Special key pressed: Key.down
+2023-12-30 01:13:19,654: Special key pressed: Key.down
+2023-12-30 01:13:19,695: Special key pressed: Key.down
+2023-12-30 01:13:19,735: Special key pressed: Key.down
+2023-12-30 01:13:19,776: Special key pressed: Key.down
+2023-12-30 01:13:19,816: Special key pressed: Key.down
+2023-12-30 01:13:19,856: Special key pressed: Key.down
+2023-12-30 01:13:19,896: Special key pressed: Key.down
+2023-12-30 01:13:19,936: Special key pressed: Key.down
+2023-12-30 01:13:19,977: Special key pressed: Key.down
+2023-12-30 01:13:20,017: Special key pressed: Key.down
+2023-12-30 01:13:20,057: Special key pressed: Key.down
+2023-12-30 01:13:20,096: Special key pressed: Key.down
+2023-12-30 01:13:20,137: Special key pressed: Key.down
+2023-12-30 01:13:20,178: Special key pressed: Key.down
+2023-12-30 01:13:20,218: Special key pressed: Key.down
+2023-12-30 01:13:20,258: Special key pressed: Key.down
+2023-12-30 01:13:20,298: Special key pressed: Key.down
+2023-12-30 01:13:20,338: Special key pressed: Key.down
+2023-12-30 01:13:20,379: Special key pressed: Key.down
+2023-12-30 01:13:20,419: Special key pressed: Key.down
+2023-12-30 01:13:20,460: Special key pressed: Key.down
+2023-12-30 01:13:20,501: Special key pressed: Key.down
+2023-12-30 01:13:20,541: Special key pressed: Key.down
+2023-12-30 01:13:20,581: Special key pressed: Key.down
+2023-12-30 01:13:20,621: Special key pressed: Key.down
+2023-12-30 01:13:20,661: Special key pressed: Key.down
+2023-12-30 01:13:20,702: Special key pressed: Key.down
+2023-12-30 01:13:20,742: Special key pressed: Key.down
+2023-12-30 01:13:20,782: Special key pressed: Key.down
+2023-12-30 01:13:20,822: Special key pressed: Key.down
+2023-12-30 01:13:20,862: Special key pressed: Key.down
+2023-12-30 01:13:20,902: Special key pressed: Key.down
+2023-12-30 01:13:20,943: Special key pressed: Key.down
+2023-12-30 01:13:20,983: Special key pressed: Key.down
+2023-12-30 01:13:21,022: Special key pressed: Key.down
+2023-12-30 01:13:21,063: Special key pressed: Key.down
+2023-12-30 01:13:21,103: Special key pressed: Key.down
+2023-12-30 01:13:21,143: Special key pressed: Key.down
+2023-12-30 01:13:21,183: Special key pressed: Key.down
+2023-12-30 01:13:21,222: Special key pressed: Key.down
+2023-12-30 01:13:21,263: Special key pressed: Key.down
+2023-12-30 01:13:21,304: Special key pressed: Key.down
+2023-12-30 01:13:21,344: Special key pressed: Key.down
+2023-12-30 01:13:21,385: Special key pressed: Key.down
+2023-12-30 01:13:21,425: Special key pressed: Key.down
+2023-12-30 01:13:21,465: Special key pressed: Key.down
+2023-12-30 01:13:21,505: Special key pressed: Key.down
+2023-12-30 01:13:21,545: Special key pressed: Key.down
+2023-12-30 01:13:21,585: Special key pressed: Key.down
+2023-12-30 01:13:21,626: Special key pressed: Key.down
+2023-12-30 01:13:21,666: Special key pressed: Key.down
+2023-12-30 01:13:21,707: Special key pressed: Key.down
+2023-12-30 01:13:21,747: Special key pressed: Key.down
+2023-12-30 01:13:21,787: Special key pressed: Key.down
+2023-12-30 01:13:21,827: Special key pressed: Key.down
+2023-12-30 01:13:21,867: Special key pressed: Key.down
+2023-12-30 01:13:21,906: Special key pressed: Key.down
+2023-12-30 01:13:21,948: Special key pressed: Key.down
+2023-12-30 01:13:21,988: Special key pressed: Key.down
+2023-12-30 01:13:22,028: Special key pressed: Key.down
+2023-12-30 01:13:22,068: Special key pressed: Key.down
+2023-12-30 01:13:22,379: Special key pressed: Key.up
+2023-12-30 01:13:23,039: Special key pressed: Key.up
+2023-12-30 01:13:23,079: Special key pressed: Key.up
+2023-12-30 01:13:23,120: Special key pressed: Key.up
+2023-12-30 01:13:23,160: Special key pressed: Key.up
+2023-12-30 01:13:23,201: Special key pressed: Key.up
+2023-12-30 01:13:23,240: Special key pressed: Key.up
+2023-12-30 01:13:23,281: Special key pressed: Key.up
+2023-12-30 01:13:23,322: Special key pressed: Key.up
+2023-12-30 01:13:23,362: Special key pressed: Key.up
+2023-12-30 01:13:23,401: Special key pressed: Key.up
+2023-12-30 01:13:23,442: Special key pressed: Key.up
+2023-12-30 01:13:23,482: Special key pressed: Key.up
+2023-12-30 01:13:23,522: Special key pressed: Key.up
+2023-12-30 01:13:23,563: Special key pressed: Key.up
+2023-12-30 01:13:23,603: Special key pressed: Key.up
+2023-12-30 01:13:23,642: Special key pressed: Key.up
+2023-12-30 01:13:23,683: Special key pressed: Key.up
+2023-12-30 01:13:23,723: Special key pressed: Key.up
+2023-12-30 01:13:23,764: Special key pressed: Key.up
+2023-12-30 01:13:23,804: Special key pressed: Key.up
+2023-12-30 01:13:23,845: Special key pressed: Key.up
+2023-12-30 01:13:23,885: Special key pressed: Key.up
+2023-12-30 01:13:23,924: Special key pressed: Key.up
+2023-12-30 01:13:23,965: Special key pressed: Key.up
+2023-12-30 01:13:24,006: Special key pressed: Key.up
+2023-12-30 01:13:24,047: Special key pressed: Key.up
+2023-12-30 01:13:24,088: Special key pressed: Key.up
+2023-12-30 01:13:24,128: Special key pressed: Key.up
+2023-12-30 01:13:24,168: Special key pressed: Key.up
+2023-12-30 01:13:24,208: Special key pressed: Key.up
+2023-12-30 01:13:24,249: Special key pressed: Key.up
+2023-12-30 01:13:24,289: Special key pressed: Key.up
+2023-12-30 01:13:24,329: Special key pressed: Key.up
+2023-12-30 01:13:24,369: Special key pressed: Key.up
+2023-12-30 01:13:24,408: Special key pressed: Key.up
+2023-12-30 01:13:24,449: Special key pressed: Key.up
+2023-12-30 01:13:24,490: Special key pressed: Key.up
+2023-12-30 01:13:24,529: Special key pressed: Key.up
+2023-12-30 01:13:24,570: Special key pressed: Key.up
+2023-12-30 01:13:24,611: Special key pressed: Key.up
+2023-12-30 01:13:24,984: Special key pressed: Key.right
+2023-12-30 01:13:25,670: Special key pressed: Key.down
+2023-12-30 01:13:25,966: Special key pressed: Key.right
+2023-12-30 01:13:26,627: Special key pressed: Key.right
+2023-12-30 01:13:26,667: Special key pressed: Key.right
+2023-12-30 01:13:26,707: Special key pressed: Key.right
+2023-12-30 01:13:26,748: Special key pressed: Key.right
+2023-12-30 01:13:27,078: Special key pressed: Key.right
+2023-12-30 01:13:27,270: Special key pressed: Key.right
+2023-12-30 01:13:27,461: Key pressed: v
+2023-12-30 01:13:27,586: Special key pressed: Key.right
+2023-12-30 01:13:28,246: Special key pressed: Key.right
+2023-12-30 01:13:28,287: Special key pressed: Key.right
+2023-12-30 01:13:28,328: Special key pressed: Key.right
+2023-12-30 01:13:28,368: Special key pressed: Key.right
+2023-12-30 01:13:28,408: Special key pressed: Key.right
+2023-12-30 01:13:28,448: Special key pressed: Key.right
+2023-12-30 01:13:28,779: Special key pressed: Key.right
+2023-12-30 01:13:28,952: Special key pressed: Key.right
+2023-12-30 01:13:29,173: Key pressed: y
+2023-12-30 01:13:29,369: Special key pressed: Key.down
+2023-12-30 01:13:30,029: Special key pressed: Key.down
+2023-12-30 01:13:30,069: Special key pressed: Key.down
+2023-12-30 01:13:30,108: Special key pressed: Key.down
+2023-12-30 01:13:30,149: Special key pressed: Key.down
+2023-12-30 01:13:30,189: Special key pressed: Key.down
+2023-12-30 01:13:30,229: Special key pressed: Key.down
+2023-12-30 01:13:30,269: Special key pressed: Key.down
+2023-12-30 01:13:30,309: Special key pressed: Key.down
+2023-12-30 01:13:30,349: Special key pressed: Key.down
+2023-12-30 01:13:30,390: Special key pressed: Key.down
+2023-12-30 01:13:30,430: Special key pressed: Key.down
+2023-12-30 01:13:30,469: Special key pressed: Key.down
+2023-12-30 01:13:30,510: Special key pressed: Key.down
+2023-12-30 01:13:30,549: Special key pressed: Key.down
+2023-12-30 01:13:30,590: Special key pressed: Key.down
+2023-12-30 01:13:30,630: Special key pressed: Key.down
+2023-12-30 01:13:30,671: Special key pressed: Key.down
+2023-12-30 01:13:30,712: Special key pressed: Key.down
+2023-12-30 01:13:30,752: Special key pressed: Key.down
+2023-12-30 01:13:30,793: Special key pressed: Key.down
+2023-12-30 01:13:30,833: Special key pressed: Key.down
+2023-12-30 01:13:30,874: Special key pressed: Key.down
+2023-12-30 01:13:30,914: Special key pressed: Key.down
+2023-12-30 01:13:30,955: Special key pressed: Key.down
+2023-12-30 01:13:30,995: Special key pressed: Key.down
+2023-12-30 01:13:31,037: Special key pressed: Key.down
+2023-12-30 01:13:31,077: Special key pressed: Key.down
+2023-12-30 01:13:31,116: Special key pressed: Key.down
+2023-12-30 01:13:31,157: Special key pressed: Key.down
+2023-12-30 01:13:31,762: Special key pressed: Key.up
+2023-12-30 01:13:31,975: Special key pressed: Key.up
+2023-12-30 01:13:32,177: Special key pressed: Key.up
+2023-12-30 01:13:32,829: Special key pressed: Key.up
+2023-12-30 01:13:33,032: Special key pressed: Key.up
+2023-12-30 01:13:33,211: Special key pressed: Key.up
+2023-12-30 01:13:33,980: Key pressed: i
+2023-12-30 01:13:34,617: Special key pressed: Key.down
+2023-12-30 01:13:34,833: Special key pressed: Key.down
+2023-12-30 01:13:35,065: Special key pressed: Key.down
+2023-12-30 01:13:35,499: Special key pressed: Key.up
+2023-12-30 01:13:35,713: Special key pressed: Key.up
+2023-12-30 01:13:35,924: Special key pressed: Key.up
+2023-12-30 01:13:36,136: Special key pressed: Key.up
+2023-12-30 01:13:36,996: Special key pressed: Key.up
+2023-12-30 01:13:37,322: Special key pressed: Key.up
+2023-12-30 01:13:37,583: Special key pressed: Key.up
+2023-12-30 01:13:39,039: Special key pressed: Key.down
+2023-12-30 01:13:39,272: Special key pressed: Key.down
+2023-12-30 01:13:39,503: Special key pressed: Key.down
+2023-12-30 01:13:39,951: Special key pressed: Key.right
+2023-12-30 01:13:40,611: Special key pressed: Key.right
+2023-12-30 01:13:40,651: Special key pressed: Key.right
+2023-12-30 01:13:40,691: Special key pressed: Key.right
+2023-12-30 01:13:40,731: Special key pressed: Key.right
+2023-12-30 01:13:41,010: Special key pressed: Key.up
+2023-12-30 01:13:41,670: Special key pressed: Key.up
+2023-12-30 01:13:41,710: Special key pressed: Key.up
+2023-12-30 01:13:41,750: Special key pressed: Key.up
+2023-12-30 01:13:41,790: Special key pressed: Key.up
+2023-12-30 01:13:41,830: Special key pressed: Key.up
+2023-12-30 01:13:41,871: Special key pressed: Key.up
+2023-12-30 01:13:41,912: Special key pressed: Key.up
+2023-12-30 01:13:41,952: Special key pressed: Key.up
+2023-12-30 01:13:41,993: Special key pressed: Key.up
+2023-12-30 01:13:42,345: Special key pressed: Key.up
+2023-12-30 01:13:42,941: Special key pressed: Key.down
+2023-12-30 01:13:43,193: Special key pressed: Key.enter
+2023-12-30 01:13:43,517: Special key pressed: Key.up
+2023-12-30 01:13:43,790: Special key pressed: Key.tab
+2023-12-30 01:13:44,183: Special key pressed: Key.tab
+2023-12-30 01:13:45,266: Special key pressed: Key.ctrl
+2023-12-30 01:13:45,416: Special key pressed: Key.shift
+2023-12-30 01:13:45,570: Key pressed: V
+2023-12-30 01:13:46,478: Special key pressed: Key.esc
+2023-12-30 01:13:47,119: Special key pressed: Key.shift_r
+2023-12-30 01:13:47,233: Key pressed: :
+2023-12-30 01:13:47,416: Key pressed: w
+2023-12-30 01:13:47,578: Special key pressed: Key.enter
+2023-12-30 01:13:48,206: Special key pressed: Key.ctrl
+2023-12-30 01:13:48,368: Key pressed: \
+2023-12-30 01:13:49,746: Special key pressed: Key.ctrl
+2023-12-30 01:13:49,856: Key pressed: c
+2023-12-30 01:14:12,198: Special key pressed: Key.ctrl
+2023-12-30 01:14:12,279: Key pressed: c
+2023-12-30 01:23:00,389: Key pressed: c
+2023-12-30 01:23:00,748: Key pressed: d
+2023-12-30 01:23:00,876: Key pressed: c
+2023-12-30 01:23:01,020: Key pressed: d
+2023-12-30 01:23:01,328: Key pressed: d
+2023-12-30 01:23:01,486: Key pressed: d
+2023-12-30 01:23:02,135: Special key pressed: Key.enter
+2023-12-30 01:23:03,060: Key pressed: w
+2023-12-30 01:23:03,063: Key pressed: d
+2023-12-30 01:23:03,123: Key pressed: d
+2023-12-30 01:23:03,422: Key pressed: w
+2023-12-30 01:23:03,510: Key pressed: d
+2023-12-30 01:23:03,829: Special key pressed: Key.enter
+2023-12-30 01:23:04,407: Special key pressed: Key.ctrl
+2023-12-30 01:23:04,502: Key pressed: c
+2023-12-30 01:29:54,856: Special key pressed: Key.ctrl
+2023-12-30 01:29:55,017: Key pressed: c
